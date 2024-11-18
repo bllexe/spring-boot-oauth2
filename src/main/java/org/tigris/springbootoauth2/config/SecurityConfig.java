@@ -16,10 +16,6 @@ public class SecurityConfig {
 
     private static final String[] AUTH_WHITELIST = {
             "/auth/**",
-            "/auth/signup",
-            "/oauth2/**",
-            "/loginSuccess",
-            "/loginFailure",
             "/api/Success",
             "/api/Failure",
             "/v3/api-docs/**",
