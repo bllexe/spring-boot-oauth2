@@ -13,7 +13,7 @@ The following guides illustrate how to use some features concretely:
 
 ### SS
 
-![image 1](static/1.png)
-![image 2](static/2.png)
-![image 3](static/3.png)
+![image 1](https://github.com/bllexe/spring-boot-oauth2/blob/main/src/main/resources/static/1.png)
+![image 2](https://github.com/bllexe/spring-boot-oauth2/blob/main/src/main/resources/static/2.png)
+![image 3](https://github.com/bllexe/spring-boot-oauth2/blob/main/src/main/resources/static/3.png)
 
